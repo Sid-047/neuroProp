@@ -1,0 +1,2 @@
+# neuroProp
+MicroGrad Inspired Stuff
